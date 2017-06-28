@@ -1,1 +1,2 @@
 Voici le premier fichier de mon repository
+pour l'activité de la partie 2 du cours Git
