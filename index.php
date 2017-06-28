@@ -12,9 +12,7 @@
                         <p>
                             Vous trouverez sur ce site : les actualités culturelles et sportives de la ville de Levet, des détails concernant les activités proposées par la ville, les activités du mois auxquelles vous pourrez vous inscrire d'un simple clique ainsi qu'un formulaire de contact pour toutes questions éventuelles.
                         </p>
-                        <p id="parcourir">
-                            N’hésitez pas à parcourir le site sans plus attendre...
-                        </p>
+                        
                     </div>
 
                     <div id="pictos">
